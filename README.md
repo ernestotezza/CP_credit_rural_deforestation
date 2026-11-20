@@ -2,7 +2,7 @@
 Capstone Project - Environmental Data Science
 
 ## Descripiton
-A project to visualize if rural credit have some relation with deflorestation in Brasil comparing the contract credit operations in 2025 with the deflorastation in the previous year (2024).
+A project to visualize if rural credit have some relation with deforestation in Brasil comparing the contract credit operations in 2025 with the deflorastation in the previous year (2024).
 
 ## Raw Database
 
